@@ -1,0 +1,14 @@
+C:\_dev\Ural\Ural\bin\Debug\Ural.exe
+C:\_dev\Ural\Ural\bin\Debug\Ural.pdb
+C:\_dev\Ural\Ural\obj\x86\Debug\Ural.exe
+C:\_dev\Ural\Ural\obj\x86\Debug\Ural.pdb
+C:\Users\Егор\Downloads\Ural\Ural\Ural\bin\Debug\Ural.exe
+C:\Users\Егор\Downloads\Ural\Ural\Ural\bin\Debug\Ural.pdb
+C:\Users\Егор\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.exe
+C:\Users\Егор\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.pdb
+C:\Users\Егор\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.exe
+C:\Users\user\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.pdb
+C:\Users\user\Downloads\Ural\Ural\Ural\bin\Debug\Ural.exe
+C:\Users\user\Downloads\Ural\Ural\Ural\bin\Debug\Ural.pdb
+C:\Users\user\Downloads\Ural\Ural\Ural\obj\x86\Debug\Ural.csprojResolveAssemblyReference.cache
